@@ -1,5 +1,5 @@
 # eslint-config
-custom eslint config for javascript project
+custom eslint config for javascript, typescript, react, react typescript project
 
 
 ## eslint-config-alziqziq
