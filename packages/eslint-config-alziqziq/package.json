@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-alziqziq",
-  "version": "2.0.17",
+  "version": "1.0.0",
   "description": "eslint config base",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,13 @@
   },
   "keywords": [
     "eslint",
-    "eslint",
-    "config"
+    "linter",
+    "config",
+    "eslint config",
+    "eslint airbnn",
+    "airbnb",
+    "jsdocs",
+    "javascript"
   ],
   "author": "Muhammad Al Ziqri <alziqziq@gmail.com>",
   "devDependencies": {
