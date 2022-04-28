@@ -4,18 +4,19 @@ module.exports = {
   env: {
     node: true,
     browser: true,
-    es6: true,
-    browser: true,
+    es2021: true,
     commonjs: true,
   },
   parserOptions: {
     sourceType: 'module',
     ecmaVersion: 'latest',
   },
-  extends: ['airbnb', 'prettier'],
+  extends: ['airbnb-base', 'prettier'],
   plugins: ['prettier', 'jsdoc'],
   rules: {
-    // custom eslint
+    /**
+     * custom eslint
+     */
     "no-console": "error",
     "no-warning-comments": "error",
     'require-jsdoc': [
@@ -34,7 +35,9 @@ module.exports = {
         functions: false,
       },
     ],
-    // custom prettier
+    /**
+     * custom prettier
+     */
     'prettier/prettier': [
       'error',
       {
@@ -46,7 +49,9 @@ module.exports = {
         arrowParens: 'always',
       },
     ],
-    // custom jsdocs
+    /**
+     * custom jsdocs
+     */
     'jsdoc/no-undefined-types': 'off',
   }
 }

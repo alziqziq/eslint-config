@@ -16,7 +16,7 @@
   "author": "Muhammad Al Ziqri <alziqziq@gmail.com>",
   "devDependencies": {
     "eslint": "^8.14.0",
-    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-jsdoc": "^39.2.9",
     "eslint-plugin-prettier": "^4.0.0",
