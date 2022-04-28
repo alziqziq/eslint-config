@@ -1,11 +1,11 @@
 # eslint-config
 custom eslint config for javascript, typescript, react, react typescript project
 
-# list of package
-- [eslint-config-alziqziq](packages/eslint-config-alziqziq/README.md)
-- [eslint-config-alziqziq](packages/eslint-config-alziqziq-react/README.md)
+# List Of Package
+- for javascript [eslint-config-alziqziq](packages/eslint-config-alziqziq/README.md)
+- for react [eslint-config-alziqziq-react](packages/eslint-config-alziqziq-react/README.md)
 
-# basic configuration
+# Basic Configuration
 - airbnb
 - jsdoc
 - prettier
