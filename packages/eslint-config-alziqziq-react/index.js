@@ -14,7 +14,7 @@ module.exports = {
     ecmaVersion: 'latest',
     sourceType: 'module',
   },
-  extends: ['alziqziq', 'plugin:react/recommended', 'airbnb', 'airbnb/hooks'],
+  extends: ['plugin:react/recommended', 'airbnb', 'airbnb/hooks', 'alziqziq'],
   plugins: ['react'],
   rules: {
     /**
