@@ -21,7 +21,7 @@ yarn add eslint-config-alziqziq-react-typescript --dev
 ```js
 module.exports = {
   extends: [
-    'alziqziq-react'
+    'alziqziq-react-typescript'
   ],
 };
 ```
