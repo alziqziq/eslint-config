@@ -4,14 +4,20 @@ eslint config for javascript basic
 - airbnb
 - react
 
-
-## installation
+## Installation
 ```shell
+# npm 
+npm i eslint-config-alziqziq-react --save-dev
+```
+
+```shell
+# yarn
 yarn add eslint-config-alziqziq-react --dev
 ```
 
-## usage
+## Usage
 .eslintrc.js
+
 ```js
 {
   extends: "alziqziq-react"

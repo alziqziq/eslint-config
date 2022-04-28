@@ -1,35 +1,13 @@
 # eslint-config
 custom eslint config for javascript, typescript, react, react typescript project
 
+# list of package
+- [eslint-config-alziqziq](packages/eslint-config-alziqziq/README.md)
+- [eslint-config-alziqziq](packages/eslint-config-alziqziq-react/README.md)
 
-## eslint-config-alziqziq
-eslint config for javascript basic
+# basic configuration
 - airbnb
-- prettier
 - jsdoc
-
-
-### installation
-```shell
-yarn add eslint-config-alziqziq --dev
-```
-
-### usage
-.eslintrc.js
-```js
-{
-  extends: "alziqziq"
-}
-```
-
-## eslint-config-alziqziq-typescript
-eslint config for typescript
-TODO 
-
-## eslint-config-alziqziq-react
-eslint config for react
-TODO 
-
-## eslint-config-alziqziq-react-typescript
-eslint config for react typescript
-TODO 
+- prettier
+- import
+- react
