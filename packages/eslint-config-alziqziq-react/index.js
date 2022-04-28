@@ -1,5 +1,3 @@
-"use strict";
-
 module.exports = {
   env: {
     node: true,
@@ -21,13 +19,14 @@ module.exports = {
      * custom react
      */
     'react/function-component-definition': [
-      2,
+      'error',
       {
         namedComponents: 'function-declaration',
       },
     ],
     'react/react-in-jsx-scope': 'off',
     'react/jsx-props-no-spreading': 'off',
+    'react/jsx-filename-extension': ['error', { extensions: ['.js', '.jsx'] }],
   },
   settings: {
     react: {

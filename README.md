@@ -11,3 +11,19 @@ custom eslint config for javascript, typescript, react, react typescript project
 - prettier
 - import
 - react
+
+## Visual Studio Code
+install eslint extension [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+add the following settings
+```json
+// .vscode/settings.json
+
+{
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+}
+```

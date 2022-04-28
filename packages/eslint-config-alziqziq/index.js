@@ -1,5 +1,3 @@
-"use strict";
-
 module.exports = {
   env: {
     node: true,
@@ -17,8 +15,8 @@ module.exports = {
     /**
      * custom eslint
      */
-    "no-console": "error",
-    "no-warning-comments": "error",
+    'no-console': 'error',
+    'no-warning-comments': 'error',
     'require-jsdoc': [
       'error',
       {
@@ -53,5 +51,5 @@ module.exports = {
      * custom jsdocs
      */
     'jsdoc/no-undefined-types': 'off',
-  }
-}
+  },
+};
