@@ -1,6 +1,7 @@
 {
   "name": "eslint-config",
   "description": "eslint config project",
+  "private": "true",
   "keywords": [
     "eslint",
     "linter",
@@ -8,7 +9,10 @@
     "eslint config",
     "eslint airbnn",
     "airbnb",
-    "jsdocs"
+    "jsdocs",
+    "javascript",
+    "react",
+    "typescript"
   ],
   "author": "Muhammad Al Ziqri <alziqziq@gmail.com>",
   "license": "ISC",
@@ -19,8 +23,9 @@
     "packages/*"
   ],
   "scripts": {
-    "publish:local": "lerna publish --canary --no-git-tag-version --no-push --registry http://localhost:4873/ --yes",
+    "publish:local": "lerna publish prerelease --no-git-tag-version --no-push --registry http://localhost:4873/",
     "publish": "lerna publish from-package",
-    "new-version": "lerna version --conventional-commits"
+    "new-version": "lerna version --conventional-commits",
+    "clean": "lerna clean --yes"
   }
 }
