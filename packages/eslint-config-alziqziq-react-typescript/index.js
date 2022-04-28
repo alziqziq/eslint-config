@@ -13,6 +13,12 @@ module.exports = {
     sourceType: 'module',
   },
   extends: ['alziqziq-react', 'alziqziq-typescript'],
+  rules: {
+    /**
+     * custom react
+     */
+    'react/jsx-filename-extension': ['error', { extensions: ['.ts', '.tsx'] }],
+  },
   settings: {
     react: {
       version: 'detect',
