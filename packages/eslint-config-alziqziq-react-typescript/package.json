@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-alziqziq-react-typescript",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "eslint config for react typescript",
   "main": "index.js",
   "keywords": [
@@ -17,7 +17,7 @@
   "author": "Muhammad Al Ziqri <alziqziq@gmail.com>",
   "dependencies": {
     "eslint-config-alziqziq-react": "^1.4.0",
-    "eslint-config-alziqziq-typescript": "^1.1.0"
+    "eslint-config-alziqziq-typescript": "^1.2.0"
   },
   "devDependencies": {
     "eslint": "^8.14.0",
