@@ -20,7 +20,9 @@ yarn add eslint-config-alziqziq --dev
 .eslintrc.js
 
 ```js
-{
-  extends: "alziqziq"
-}
+module.exports = {
+  extends: [
+    'alziqziq'
+  ],
+};
 ```
