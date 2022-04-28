@@ -1,0 +1,42 @@
+{
+  "name": "eslint-config-alziqziq-react-typescript",
+  "version": "1.0.0",
+  "description": "eslint config for react typescript",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "linter",
+    "config",
+    "eslint config",
+    "eslint airbnn",
+    "airbnb",
+    "jsdocs",
+    "typescript",
+    "react"
+  ],
+  "author": "Muhammad Al Ziqri <alziqziq@gmail.com>",
+  "dependencies": {
+    "eslint-config-alziqziq-react": "^1.4.0",
+    "eslint-config-alziqziq-typescript": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "typescript": "^4.6.3"
+  },
+  "peerDependencies": {
+    "eslint": ">= 8.14.0",
+    "typescript": ">= 4.6.3"
+  },
+  "eslintConfig": {
+    "extends": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alziqziq/eslint-config"
+  },
+  "homepage": "https://github.com/alziqziq/eslint-config/tree/main/packages/eslint-config-alziqziq-react-typescript",
+  "license": "ISC"
+}
