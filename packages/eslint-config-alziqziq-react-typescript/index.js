@@ -13,11 +13,16 @@ module.exports = {
     sourceType: 'module',
   },
   extends: ['alziqziq-react', 'alziqziq-typescript'],
+  plugins: ['require-explicit-generics'],
   rules: {
     /**
      * custom react
      */
     'react/jsx-filename-extension': ['error', { extensions: ['.ts', '.tsx'] }],
+    'require-explicit-generics/require-explicit-generics': [
+      'error',
+      { useState: 1 },
+    ],
   },
   settings: {
     react: {

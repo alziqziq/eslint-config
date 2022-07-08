@@ -17,7 +17,8 @@
   "author": "Muhammad Al Ziqri <alziqziq@gmail.com>",
   "dependencies": {
     "eslint-config-alziqziq-react": "^1.4.0",
-    "eslint-config-alziqziq-typescript": "^1.2.0"
+    "eslint-config-alziqziq-typescript": "^1.2.0",
+    "eslint-plugin-require-explicit-generics": "^0.4.2"
   },
   "devDependencies": {
     "eslint": "^8.14.0",
