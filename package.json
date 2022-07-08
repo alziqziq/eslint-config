@@ -1,6 +1,7 @@
 {
   "name": "eslint-config",
   "description": "eslint config project",
+  "private": true,
   "keywords": [
     "eslint",
     "linter",
