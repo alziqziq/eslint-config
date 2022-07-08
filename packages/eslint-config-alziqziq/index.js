@@ -33,6 +33,7 @@ module.exports = {
         functions: false,
       },
     ],
+    'import/prefer-default-export': 'off',
     /**
      * custom prettier
      */
