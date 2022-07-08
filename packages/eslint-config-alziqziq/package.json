@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-alziqziq",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "eslint config base",
   "main": "index.js",
   "keywords": [
