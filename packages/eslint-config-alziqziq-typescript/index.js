@@ -10,7 +10,7 @@ module.exports = {
     sourceType: 'module',
     ecmaVersion: 'latest',
   },
-  extends: ['plugin:@typescript-eslint/recommended', 'alziqziq'],
+  extends: ['alziqziq', 'plugin:@typescript-eslint/recommended'],
   plugins: ['@typescript-eslint'],
   rules: {
     /**

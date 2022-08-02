@@ -16,7 +16,7 @@ module.exports = {
      * custom eslint
      */
     'no-console': 'error',
-    'no-warning-comments': 'error',
+    'no-warning-comments': 'warn',
     'require-jsdoc': [
       'error',
       {

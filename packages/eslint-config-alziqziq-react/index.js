@@ -12,7 +12,7 @@ module.exports = {
     ecmaVersion: 'latest',
     sourceType: 'module',
   },
-  extends: ['plugin:react/recommended', 'airbnb', 'airbnb/hooks', 'alziqziq'],
+  extends: ['alziqziq', 'plugin:react/recommended', 'airbnb', 'airbnb/hooks'],
   plugins: ['react'],
   rules: {
     /**
@@ -27,6 +27,8 @@ module.exports = {
     'react/react-in-jsx-scope': 'off',
     'react/jsx-props-no-spreading': 'off',
     'react/jsx-filename-extension': ['error', { extensions: ['.js', '.jsx'] }],
+    'react/no-danger': 'off',
+    'react/destructuring-assignment': 'off',
   },
   settings: {
     react: {
