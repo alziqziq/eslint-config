@@ -9,8 +9,8 @@ module.exports = {
     sourceType: 'module',
     ecmaVersion: 'latest',
   },
-  extends: ['airbnb-base', 'prettier'],
-  plugins: ['prettier', 'jsdoc'],
+  extends: ['airbnb-base'],
+  plugins: ['jsdoc'],
   rules: {
     /**
      * custom eslint
@@ -34,20 +34,6 @@ module.exports = {
       },
     ],
     'import/prefer-default-export': 'off',
-    /**
-     * custom prettier
-     */
-    'prettier/prettier': [
-      'error',
-      {
-        singleQuote: true,
-        printWidth: 80,
-        useTabs: false,
-        tabWidth: 2,
-        semi: true,
-        arrowParens: 'always',
-      },
-    ],
     /**
      * custom jsdocs
      */

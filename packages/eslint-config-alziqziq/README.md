@@ -1,13 +1,15 @@
 # eslint-config-alziqziq
+
 eslint config for javascript basic
+
 - airbnb-base
-- prettier
 - jsdoc
 - import
 
 ## Installation
+
 ```shell
-# npm 
+# npm
 npm i eslint-config-alziqziq --save-dev
 ```
 
@@ -17,12 +19,11 @@ yarn add eslint-config-alziqziq --dev
 ```
 
 ## Usage
+
 .eslintrc.js
 
 ```js
 module.exports = {
-  extends: [
-    'alziqziq'
-  ],
+  extends: ['alziqziq'],
 };
 ```
