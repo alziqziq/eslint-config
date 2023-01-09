@@ -34,9 +34,26 @@ module.exports = {
       },
     ],
     'import/prefer-default-export': 'off',
+    'import/extensions': [
+      'error',
+      'ignorePackages',
+      {
+        js: 'never',
+        jsx: 'never',
+        ts: 'never',
+        tsx: 'never',
+      },
+    ],
     /**
      * custom jsdocs
      */
     'jsdoc/no-undefined-types': 'off',
+  },
+  settings: {
+    'import/resolver': {
+      node: {
+        extensions: ['.js', '.jsx', 'ts', 'tsx'],
+      },
+    },
   },
 };
