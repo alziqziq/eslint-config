@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.2](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq-react@1.5.1...eslint-config-alziqziq-react@1.5.2) (2023-01-09)
+
+**Note:** Version bump only for package eslint-config-alziqziq-react
+
+
+
+
+
 ## [1.5.1](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq-react@1.5.0...eslint-config-alziqziq-react@1.5.1) (2022-08-05)
 
 **Note:** Version bump only for package eslint-config-alziqziq-react
