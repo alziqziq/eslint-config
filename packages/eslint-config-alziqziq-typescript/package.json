@@ -15,8 +15,8 @@
   ],
   "author": "Muhammad Al Ziqri <alziqziq@gmail.com>",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.21.0",
-    "@typescript-eslint/parser": "^5.21.0",
+    "@typescript-eslint/eslint-plugin": "^5.60.0",
+    "@typescript-eslint/parser": "^5.60.0",
     "eslint-config-alziqziq": "^1.5.2"
   },
   "devDependencies": {
