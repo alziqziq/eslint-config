@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-alziqziq-typescript",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "eslint config for typescript",
   "main": "index.js",
   "keywords": [
@@ -17,7 +17,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.60.0",
     "@typescript-eslint/parser": "^5.60.0",
-    "eslint-config-alziqziq": "^1.5.2"
+    "eslint-config-alziqziq": "^1.5.3"
   },
   "devDependencies": {
     "eslint": "^8.14.0",
