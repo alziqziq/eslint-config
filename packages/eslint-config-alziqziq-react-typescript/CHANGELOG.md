@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.6](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq-react-typescript@1.3.5...eslint-config-alziqziq-react-typescript@1.3.6) (2023-07-06)
+
+**Note:** Version bump only for package eslint-config-alziqziq-react-typescript
+
+
+
+
+
 ## [1.3.5](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq-react-typescript@1.3.4...eslint-config-alziqziq-react-typescript@1.3.5) (2023-06-21)
 
 **Note:** Version bump only for package eslint-config-alziqziq-react-typescript

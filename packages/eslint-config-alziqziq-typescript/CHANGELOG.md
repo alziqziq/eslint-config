@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq-typescript@1.4.4...eslint-config-alziqziq-typescript@1.5.0) (2023-07-06)
+
+
+### Features
+
+* add @typescript-eslint/no-use-before-define for ts rule ([18f58f3](https://github.com/alziqziq/eslint-config/commit/18f58f3ffbdc84a4f313e2be2c2244a2714111bc))
+
+
+
+
+
 ## [1.4.4](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq-typescript@1.4.3...eslint-config-alziqziq-typescript@1.4.4) (2023-06-21)
 
 **Note:** Version bump only for package eslint-config-alziqziq-typescript
