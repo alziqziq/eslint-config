@@ -8,7 +8,7 @@
   "typescript.enablePromptUseWorkspaceTsdk": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true // eslint auto fix
+    "source.fixAll.eslint": "explicit"
   },
   "editor.formatOnSave": true,
   // Eslint
