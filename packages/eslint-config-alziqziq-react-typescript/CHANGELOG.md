@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq-react-typescript@1.5.0...eslint-config-alziqziq-react-typescript@1.6.0) (2026-04-13)
+
+
+### Features
+
+* publish ([cea458c](https://github.com/alziqziq/eslint-config/commit/cea458cb4aca1f643a8acb972c4579cd778466aa))
+
+
+
+
+
 # [1.5.0](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq-react-typescript@1.4.1...eslint-config-alziqziq-react-typescript@1.5.0) (2026-04-13)
 
 ### Features

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.9.0](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq@1.8.0...eslint-config-alziqziq@1.9.0) (2026-04-13)
+
+
+### Features
+
+* publish ([cea458c](https://github.com/alziqziq/eslint-config/commit/cea458cb4aca1f643a8acb972c4579cd778466aa))
+
+
+
+
+
 # [1.8.0](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq@1.7.0...eslint-config-alziqziq@1.8.0) (2026-04-13)
 
 ### Features
