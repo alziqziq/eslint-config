@@ -5,14 +5,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [1.5.0](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq-react-typescript@1.4.1...eslint-config-alziqziq-react-typescript@1.5.0) (2026-04-13)
 
-
 ### Features
 
-* update rule ([d7a7141](https://github.com/alziqziq/eslint-config/commit/d7a7141666bcd52e9c36b7192da7fae4d16fc9b5))
-
-
-
-
+- update rule ([d7a7141](https://github.com/alziqziq/eslint-config/commit/d7a7141666bcd52e9c36b7192da7fae4d16fc9b5))
 
 ## [1.4.1](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq-react-typescript@1.4.0...eslint-config-alziqziq-react-typescript@1.4.1) (2026-04-13)
 
