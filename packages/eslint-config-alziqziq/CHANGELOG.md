@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq@1.5.5...eslint-config-alziqziq@1.6.0) (2026-04-13)
+
+
+### Features
+
+* update eslint-plugin-jsdoc version ([6d5f639](https://github.com/alziqziq/eslint-config/commit/6d5f6397e823d869b04ea529538e0c9d5ce48eea))
+
+
+
+
+
 ## [1.5.5](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq@1.5.4...eslint-config-alziqziq@1.5.5) (2023-07-06)
 
 **Note:** Version bump only for package eslint-config-alziqziq
