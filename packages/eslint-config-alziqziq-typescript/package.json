@@ -38,5 +38,6 @@
     "url": "https://github.com/alziqziq/eslint-config"
   },
   "homepage": "https://github.com/alziqziq/eslint-config/tree/main/packages/eslint-config-alziqziq-typescript",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "486bdb0e15bbb27616cc66f9a2a606776f17da40"
 }
