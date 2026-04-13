@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.8.0](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq-typescript@1.7.0...eslint-config-alziqziq-typescript@1.8.0) (2026-04-13)
+
+
+### Features
+
+* update rule ([d7a7141](https://github.com/alziqziq/eslint-config/commit/d7a7141666bcd52e9c36b7192da7fae4d16fc9b5))
+
+
+
+
+
 # [1.7.0](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq-typescript@1.6.0...eslint-config-alziqziq-typescript@1.7.0) (2026-04-13)
 
 ### Features
