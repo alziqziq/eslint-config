@@ -40,7 +40,6 @@ module.exports = {
     'jsdoc/no-undefined-types': 'off',
     'jsdoc/require-jsdoc': 'error',
     'jsdoc/require-returns': 'off',
-    'jsdoc/require-returns-type': 'error',
     'jsdoc/require-returns-description': 'off',
     'jsdoc/require-param': 'off',
     'jsdoc/require-param-type': 'off',
