@@ -7,10 +7,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 **Note:** Version bump only for package eslint-config-alziqziq-react
 
-
-
-
-
 # [1.6.0](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq-react@1.5.5...eslint-config-alziqziq-react@1.6.0) (2026-04-13)
 
 ### Features

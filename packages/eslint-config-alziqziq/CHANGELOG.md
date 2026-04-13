@@ -5,14 +5,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [1.7.0](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq@1.6.0...eslint-config-alziqziq@1.7.0) (2026-04-13)
 
-
 ### Features
 
-* update rule ([422cb3e](https://github.com/alziqziq/eslint-config/commit/422cb3e1d10b0a28848e317efe5bba2815fe6666))
-
-
-
-
+- update rule ([422cb3e](https://github.com/alziqziq/eslint-config/commit/422cb3e1d10b0a28848e317efe5bba2815fe6666))
 
 # [1.6.0](https://github.com/alziqziq/eslint-config/compare/eslint-config-alziqziq@1.5.5...eslint-config-alziqziq@1.6.0) (2026-04-13)
 
