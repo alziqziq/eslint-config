@@ -17,16 +17,6 @@ module.exports = {
      */
     'no-console': 'error',
     'no-warning-comments': 'warn',
-    'require-jsdoc': [
-      'error',
-      {
-        require: {
-          FunctionDeclaration: true,
-          ArrowFunctionExpression: true,
-          FunctionExpression: true,
-        },
-      },
-    ],
     'no-use-before-define': [
       'error',
       {
@@ -48,6 +38,13 @@ module.exports = {
      * custom jsdocs
      */
     'jsdoc/no-undefined-types': 'off',
+    'jsdoc/require-jsdoc': 'error',
+    'jsdoc/require-returns': 'off',
+    'jsdoc/require-returns-type': 'error',
+    'jsdoc/require-returns-description': 'off',
+    'jsdoc/require-param': 'off',
+    'jsdoc/require-param-type': 'off',
+    'jsdoc/require-param-description': 'off',
   },
   settings: {
     'import/resolver': {

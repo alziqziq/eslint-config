@@ -19,19 +19,15 @@ module.exports = {
     '@typescript-eslint/typedef': [
       'error',
       {
-        arrayDestructuring: false,
         arrowParameter: true,
-        memberVariableDeclaration: true,
-        objectDestructuring: true,
         parameter: true,
         propertyDeclaration: true,
-        variableDeclaration: true,
-        variableDeclarationIgnoreFunction: true,
       },
     ],
     '@typescript-eslint/explicit-function-return-type': 'error',
-    '@typescript-eslint/no-inferrable-types': 'off',
     '@typescript-eslint/no-explicit-any': 'off',
+    '@typescript-eslint/no-empty-object-type': 'off',
+    '@typescript-eslint/no-inferrable-types': 'off',
     '@typescript-eslint/no-unused-vars': [
       'error',
       {
